@@ -1,2 +1,2 @@
 # academico
-This is a repository academic of the U.CESMAG
+parcial2 segundo corte
